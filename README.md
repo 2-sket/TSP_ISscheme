@@ -1,4 +1,4 @@
-# TSP_ISscheme(卒業研究)
+# TSP_ISscheme
 1. モナリザTSPのデータを https://www.math.uwaterloo.ca/tsp/data/ml/monalisa.html よりダウンロードする.
 2. Instance.ipynbにて２つの類似した90,000都市インスタンスを作成
 3. LKHソルバーの環境を構築する http://webhotel4.ruc.dk/~keld/research/LKH-3/
